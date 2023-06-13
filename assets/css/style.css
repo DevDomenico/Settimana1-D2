@@ -4,7 +4,7 @@
 .bg-dark {
   background-color: #222f3e;
 }
-.bg-light-dark {
+.top-flex {
   background-color: #364759;
 }
 .bg-green {
@@ -19,12 +19,7 @@
 .bg-white {
   background-color: white;
 }
-.mb-2 {
-  margin-bottom: 2rem;
-}
-.mr-1 {
-  margin-right: 1rem;
-}
+
 header div {
   padding: 0.5rem 2rem;
 }
@@ -39,7 +34,7 @@ header span {
 .text-center {
   text-align: center;
 }
-.logo-amazon {
+.Logo-Amazon{
   width: 100%;
 }
 
