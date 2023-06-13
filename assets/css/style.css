@@ -19,6 +19,9 @@
   .bg-white {
     background-color: white;
   }
+  .mb-2 {
+    margin-bottom: 2rem;
+  }
   
   header div {
     padding: 0.5rem 2rem;
